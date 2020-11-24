@@ -6,5 +6,8 @@ public class sprint2Subtask3 {
     // Comment in subtask6
     // Another comment
         // Testing a bunch of comments to try and create some conflicts
-    
+
+    // Comment inside Subtask7
+        //Subtask7
+    //Subtask7
 }
