@@ -4,7 +4,7 @@ public class newBranchSubtask2FromSprint1 {
 
     /*
     * Created newBranchSubtask2FromSprint1.java,
-    * in branch subtask2 
+    * in branch subtask2
     *
     * */
 
